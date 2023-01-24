@@ -1,0 +1,1 @@
+data - https://raw.githubusercontent.com/netology-code/ds3-spring-2018/master/2.%20Basic%20Algorithms/2.4%20Accuracy_regularization/athletes.csv
